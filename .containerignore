@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.idea/
+.vscode/
+dist/
+build/
+*.spec
+compare_faces.py
+known_faces/
